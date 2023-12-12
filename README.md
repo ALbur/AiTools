@@ -1,3 +1,5 @@
+# pip install requests
+
 # 填写脚本必要信息后
 
 ![image](https://github.com/ALbur/autoTools/assets/24468956/639d23df-c745-4d32-888f-c46061cfac2d)
