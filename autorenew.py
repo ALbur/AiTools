@@ -49,7 +49,6 @@ def register_fake_open(urlpre, access_token):
 def register_pooltoken(urlpre, login_payloads, pool_token):
     # 用于存储所有的 access_token
     fake_tokens = []
-
     # 遍历每个登录请求
     for payload in login_payloads:
         fake_token = register_fake_open(urlpre,get_access_token(urlpre,payload))
@@ -57,10 +56,11 @@ def register_pooltoken(urlpre, login_payloads, pool_token):
         time.sleep(delay_time)
         if fake_token:
             fake_tokens.append(fake_token)
-
     # 打印所有获取到的 access_token
     print("所有的 access_token:", fake_tokens)
-
+    if not fake_tokens:
+        print("faccess_token为空，不进行处理")
+        return None
     fake_token_all = '\n'.join(fake_tokens)
 
     # 更新池信息
