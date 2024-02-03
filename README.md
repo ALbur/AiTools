@@ -1,11 +1,8 @@
 # pandora respect 
-## pip install requests
-
-## 填写脚本必要信息后
-
-![image](https://github.com/ALbur/autoTools/assets/24468956/639d23df-c745-4d32-888f-c46061cfac2d)
-
-## 创建定时任务
-
-![image](https://github.com/ALbur/autoTools/assets/24468956/b0767f47-46c1-441b-999c-e92749aefd41)
-
+## GminiTool
+* vscode版本 自定义base,自定义key
+* 支持自动保存对话到本地
+* 自动打开vscode
+* 推荐使用插件
+  ![image](https://github.com/ALbur/autoTools/assets/24468956/cb9a86bc-9050-4da9-94a2-e406de78ca51)
+  [vscode-markdown](https://github.com/shd101wyy/vscode-markdown-preview-enhanced/releases)
