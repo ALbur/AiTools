@@ -6,3 +6,5 @@
 * 推荐使用插件
   ![image](https://github.com/ALbur/autoTools/assets/24468956/cb9a86bc-9050-4da9-94a2-e406de78ca51)
   [vscode-markdown](https://github.com/shd101wyy/vscode-markdown-preview-enhanced/releases)
+  ![如图](https://github.com/ALbur/autoTools/assets/24468956/3b196235-0134-482e-ad86-238211bf3a01)
+
