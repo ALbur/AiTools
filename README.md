@@ -1,5 +1,5 @@
 # pandora respect 
-## GminiTool
+## GeminiTool
 * vscode版本 自定义base,自定义key
 * 支持自动保存对话到本地
 * 自动打开vscode
